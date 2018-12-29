@@ -1,0 +1,21 @@
+{
+    "name": "abc/abc",
+    "description": "zhe\b\b\b\b",
+    "type": "project",
+    "license": "m\bM",
+    "authors": [
+        {
+            "name": "徐飞",
+            "email": "364739377@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "abc\\abc\\": "src/src"
+        }
+    }
+}
